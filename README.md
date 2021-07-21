@@ -27,12 +27,6 @@
 
 <br />
 
-<p align="center">
-  <img src="certificate.png" width="300" title="certificate">
-</p>
-
-<br />
-
 
 ### Connect with me:
 
