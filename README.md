@@ -1,6 +1,6 @@
 ### Hi there, I'm  [Gowtham GS][linkedin] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, and Teacher!!
 
 - 🔭 I'm currently working on Harmony OS
 
