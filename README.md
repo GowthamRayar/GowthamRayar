@@ -1,10 +1,10 @@
 ### Hi there, I'm  [Gowtham GS][linkedin] 👋
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer & Mentor!!
 
 - 🔭 I'm currently working on Harmony OS
 
-- 🌱 I’m currently learning JavaScript 🤣
+- 🌱 Also learning JavaScript 🤣
 
 - 💬 Ask me about anything related to Harmony OS Library development, Android Firmware, Android Application development or Java/C++/JNI
 
