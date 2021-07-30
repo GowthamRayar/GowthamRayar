@@ -12,13 +12,11 @@
 
 - ⚡ Fun fact: I love to Power Lift :heart_eyes:
 
-<br />
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GowthamRayar.GowthamRayar)
 
-<br />
 <br />
 
 <p align="center">
