@@ -38,7 +38,7 @@ No Activity tracked this Week
 ### Connect with me:
 
 [<img align="left" alt="gowtham-gs-a119b877 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mr_professor_90 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gowda_1490 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -67,7 +67,7 @@ No Activity tracked this Week
 
 ---
 
-[instagram]: https://www.instagram.com/mr_professor_90/
+[instagram]: https://www.instagram.com/gowda_1490/
 [linkedin]: https://www.linkedin.com/in/gowtham-gs-a119b877/
 [stackoverflow]: https://stackoverflow.com/users/10472898/gowtham-gs
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
