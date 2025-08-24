@@ -2,13 +2,13 @@
 
 ## I'm a Developer & Mentor!!
 
-- 🔭 I'm currently working on Harmony OS
+- 🔭 I'm currently working on Android Automitive HMI and Middleware.
 
-- 🌱 Also learning JavaScript 🤣
+- 🌱 Also learning C, C++.
 
 - 💬 Ask me about anything related to Harmony OS Library development, Android Firmware, Android Application development or Java/C++/JNI
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to Power Lift :heart_eyes:
 
